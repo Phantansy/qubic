@@ -1,0 +1,5 @@
+
+mkdir qubic
+wget https://github.com/Qubic-Solutions/rqiner-builds/releases/download/v0.4.2/rqiner-aarch64-mobile
+chmod u+x rqiner-aarch64-mobile
+./rqiner-aarch64-mobile -t 8 -i FFXQXAWKVOUYBAYUQSVCVKVHEUXAPWCJCSIAUBVFUEWFKXKFHAJBJZCHFUIN -l
